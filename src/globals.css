@@ -12,4 +12,9 @@ html{
 body{
   font-size: 16px;
   /* Esto lo que hace es que 1rem equivalga a 10px */
+  background-color: #ccc;
+  min-height: 100vh;
+}
+main{
+  width: 100%;
 }

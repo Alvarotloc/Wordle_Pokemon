@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    padding: 2rem;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    gap: 1rem;
+    text-align: center;
+}
+.header__titulo{
+    font-size: 4rem;
+}
+.header__span{
+    font-weight: 700;
+    color: rgba(24, 24, 253, 0.697);
+}
+.header__primerParrafo{
+    font-size: 1.8rem;
+    font-weight: 700;
+}
